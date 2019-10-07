@@ -1,6 +1,8 @@
 # counter_app
 
-A new Flutter project.
+This is a basic flutter program that displays a number to the user starting from 10. This number is increased when the user clicks a button.
+
+Please note to test the program you must have Android Studio installed on your PC.
 
 ## Getting Started
 
